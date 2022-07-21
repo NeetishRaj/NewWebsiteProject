@@ -1,3 +1,23 @@
 Hi sir 
 My name is Sushil Kargutkar , I am from dreamers batch
-and thank you us for motivating us,Words can't express how much I appreciate your support and encouragement
+and thank you for motivating us,Words can't express how much I appreciate your support and encouragement
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        div{
+            height: 200px;
+            width: 200px;
+            background-color:red
+        }
+    </style>
+<body>
+    <div>Hello Sir My name is Sushil K and i'm from dreamers batch. Thank you sir for motivating us 
+        Words can't express how much I appreciate your support and encouragement.</div>
+</body>
+</html>
